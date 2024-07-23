@@ -1,0 +1,20 @@
+.myButton {
+  -fx-background-color:#70759a; /*按钮背景色*/
+  -fx-padding: 15px 32px;/*按钮大小*/
+  -fx-text-align: center;
+  -fx-text-decoration: none;
+  -fx-display: inline-block;
+  -fx-font-size: 20px;
+  -fx-text-fill: #76b3b5;/*文字填充色*/
+}
+
+.myButton:hover{
+    -fx-background-color:  #57587c;
+}
+/*.myButton:pressed {
+  -fx-background-color: #235891;
+}*/
+
+/*.myButton:focused {
+  -fx-background-color: #2f5891;
+}*/

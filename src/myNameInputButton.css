@@ -1,0 +1,18 @@
+.myNameInputButton {
+	-fx-background-color: #7fb3c2; /*按钮背景色*/
+	-fx-padding: 10px 32px; /*按钮大小*/
+	-fx-text-align: center;
+	-fx-text-decoration: none;
+	-fx-display: inline-block;
+	-fx-font-family: "Microsoft YaHei"; /* 设置字体为微软雅黑 */
+	-fx-font-size:18px;
+	-fx-text-fill: #e4f4f3; /*文字填充色*/
+}
+
+.myNameInputButton:hover {
+	-fx-background-color: #5e95a0;
+}
+
+.myNameInputButton:pressed {
+	-fx-background-color: #40707b;
+}
